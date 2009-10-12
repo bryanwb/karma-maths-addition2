@@ -1,20 +1,32 @@
 {
-    "dependencies": [],
-    "name": "karma-maths-addition2",
+    "name": "home.hitman.Prog.epaath-packages.karma-maths-addition2.",
+    "dependencies": [
+        "narwhal",
+        [
+            "karma-epaath-framework",
+            {
+                "locate": "http://github.com/bryanwb/karma-epaath-framework/zipball/master",
+                "revision": "latest",
+                "package": "karma-epaath-framework"
+            }
+        ]
+    ],
     "description": "A basic maths lesson",
     "author": "Sudaya Maharjan",
     "contributors": [],
-    "keywords": ["E-Paath", "English"],
-     "license":"MIT",
+    "keywords": [
+        "E-Paath",
+        "English"
+    ],
+    "license": "MIT",
     "karma": {
-    	     "grade": "2",
-	     "subject": "maths",
-	     "locale": "ne_np",	
-	     "week": "7"    	     	     
-    },   
+        "grade": "2",
+        "subject": "maths",
+        "locale": "ne_np",
+        "week": "7"
+    },
     "main": "",
     "type": "zip",
     "githubName": "karma-maths-addition2",
-    "location": "http://github.com/bryanwb/karma-maths-addition2/zipball/master",
-    
+    "location": "http://github.com/bryanwb/karma-maths-addition2/zipball/master"
 }
