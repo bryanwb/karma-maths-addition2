@@ -1,0 +1,20 @@
+{
+    "dependencies": [],
+    "name": "karma-maths-addition2",
+    "description": "A basic maths lesson",
+    "author": "Sudaya Maharjan",
+    "contributors": [],
+    "keywords": ["E-Paath", "English"],
+     "license":"MIT",
+    "karma": {
+    	     "grade": "2",
+	     "subject": "maths",
+	     "locale": "ne_np",	
+	     "week": "7"    	     	     
+    },   
+    "main": "",
+    "type": "zip",
+    "githubName": "karma-maths-addition2",
+    "location": "http://github.com/bryanwb/karma-maths-addition2/zipball/master",
+    
+}
